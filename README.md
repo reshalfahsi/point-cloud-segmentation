@@ -37,7 +37,7 @@ Click the following image to see the interactive result of the model.
 
 <p align="center"> 
    <a href="https://reshalfahsi.github.io/point-cloud-segmentation">
-       <img src="https://https://raw.githubusercontent.com/reshalfahsi/point-cloud-segmentation/master/assets/result.png" alt="qualitative_result"> 
+       <img src="https://raw.githubusercontent.com/reshalfahsi/point-cloud-segmentation/master/assets/result.png" alt="qualitative_result"> 
    </a>
    The segmentation result for the motorbike subcategory of the ShapeNet dataset with the label: <i>wheel</i>, <i>seat</i>, <i>gas_tank</i>, <i>light</i>, and <i>handle</i>.
 </p>
