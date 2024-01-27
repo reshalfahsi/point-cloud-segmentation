@@ -20,8 +20,8 @@ The numeric values below bespeak the performance of the model.
 
 Test Metric  | Score
 ------------ | -------------
-Loss         | 0.160
-IoU          | 0.255
+Loss         | 0.169
+IoU          | 0.885
 
 
 ## Loss and IoU Curve
